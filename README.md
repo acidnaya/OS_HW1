@@ -16,3 +16,4 @@
 ### (5 баллов) Схема решения
 
 ### (6 баллов) Схема решения
+![Схема 6](https://github.com/acidnaya/OS_HW1/blob/main/schemas/6.svg)
