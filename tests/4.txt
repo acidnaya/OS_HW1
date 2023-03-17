@@ -1,0 +1,5 @@
+tests touch 1.txt
+tests touch 2.txt
+tests touch 3.txt
+tests touch 4.txt
+tests touch 5.txt
